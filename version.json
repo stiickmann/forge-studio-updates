@@ -1,6 +1,9 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/stiickmann/forge-studio-updates/releases",
-  "notes": "Initial public update feed.",
-  "publishedAt": "2026-06-23T00:15:35.456Z"
+    "version":  "0.2.6",
+    "url":  "https://github.com/stiickmann/forge-studio-updates/releases/download/v0.2.6/Forge-Studio-0.2.6.zip",
+    "sha256":  "9340754bb4f228e1733518b782032b3e106ad71ac20e6cf851c72bc788014a93",
+    "notes":  "Forge Studio update 0.2.6",
+    "publishedAt":  "2026-06-27T20:21:49.0882519Z",
+    "minSupportedVersion":  "",
+    "mandatory":  false
 }
