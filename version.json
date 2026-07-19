@@ -1,9 +1,9 @@
 {
-    "version":  "0.2.7",
-    "url":  "https://github.com/stiickmann/forge-studio-updates/releases/download/v0.2.7/Forge-Studio-0.2.7.zip",
-    "sha256":  "632f70a11bac38c913e38617c2122ac2a338c8745ae6cf15601069968cd832dc",
-    "notes":  "y",
-    "publishedAt":  "2026-07-04T01:49:59.2759084Z",
+    "version":  "0.2.9",
+    "url":  "https://github.com/stiickmann/forge-studio-updates/releases/download/v0.2.9/Forge-Studio-0.2.9.zip",
+    "sha256":  "58e1d8b55954a9e9798cb9721aec2ffa010fa94789a80bf421d10c0a6a33f0c1",
+    "notes":  "updatee",
+    "publishedAt":  "2026-07-19T12:49:10.0538767Z",
     "minSupportedVersion":  "",
     "mandatory":  true
 }
